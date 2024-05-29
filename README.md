@@ -12,20 +12,22 @@ Acest proiect implementează o soluție pentru problema rucsacului aplicată la 
 
 Pentru a compila și rula proiectul, urmați pașii de mai jos:
 
-1. Clonați repository-ul:
+1. Clonați sau descarcati repository-ul:
     ```sh
     git clone https://github.com/Cirjaliu-Mihai/proiect-pescar
-    cd proiect-pescar
     ```
-
-2. Compilați proiectul:
+2. Deschideți linia de comandă (CMD) și navigați la directorul proiectului:
+    ```sh
+    cd C:\calea\catre\directorul\proiectului
+    ```
+3. Compilați proiectul:
     ```sh
     make
     ```
 
-3. Rulați executabilul:
+4. Rulați executabilul:
     ```sh
-    main
+    main.exe
     ```
 
 4. Curățați fișierele obiect și executabilul:
