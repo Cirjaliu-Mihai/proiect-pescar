@@ -39,4 +39,4 @@ Acest proiect necesită un compilator GCC și utilitarul `make`.
 
 ## Autor
 
-Scris de Cirjaliu Iulian-Mihai (Cirjaliu-Mihai).
+Scris de Cirjaliu Iulian-Mihai .
