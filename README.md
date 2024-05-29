@@ -15,7 +15,7 @@ Pentru a compila și rula proiectul, urmați pașii de mai jos:
 1. Clonați repository-ul:
     ```sh
     git clone https://github.com/Cirjaliu-Mihai/proiect-pescar
-    cd proiect-homari
+    cd proiect-pescar
     ```
 
 2. Compilați proiectul:
