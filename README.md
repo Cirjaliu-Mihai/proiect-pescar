@@ -25,7 +25,7 @@ Pentru a compila și rula proiectul, urmați pașii de mai jos:
 
 3. Rulați executabilul:
     ```sh
-    ./main
+    main
     ```
 
 4. Curățați fișierele obiect și executabilul:
