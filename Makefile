@@ -13,4 +13,4 @@ homar.o: src/homar.c
 	$(CC) $(CFLAGS) -c src/homar.c
 
 clean:
-	del -f *.o main.exe
+	rm -f *.o main.exe
